@@ -1,8 +1,8 @@
-#=ExpenseTracker
+# ExpenseTracker
 
 Smart Expense Tracking System using Java and MySQL
 
-#=Project Overview
+# Project Overview
 
 ExpenseTracker is a simple application designed to help users manage their daily expenses efficiently. The system helps users track spending, categorize expenses, and view monthly reports for better financial management.
 
@@ -10,16 +10,16 @@ The project is developed using Java as the backend and MySQL as the database man
 
 ---
 
-#=Current Development Phase
+# Current Development Phase
 
-#=Completed Features
+# Completed Features
 
 - Project Setup
 - GitHub Repository Setup
 - Expense Tracker Design Planning
 - User Interface Design
 
-#=In Progress
+# In Progress
 
 - Java GUI Development
 - MySQL Database Integration
@@ -27,28 +27,28 @@ The project is developed using Java as the backend and MySQL as the database man
 
 ---
 
-#=Technologies Used
+# Technologies Used
 
-#=Frontend
+# Frontend
 
 - Java Swing (GUI)
 
-#=Backend
+# Backend
 
 - Java
 
-#=Database
+# Database
 
 - MySQL
 
-#=Version Control
+# Version Control
 
 - Git
 - GitHub
 
 ---
 
-#=Objectives
+# Objectives
 
 - Help users track daily expenses
 - Maintain expense records
@@ -57,7 +57,7 @@ The project is developed using Java as the backend and MySQL as the database man
 
 ---
 
-#=Future Enhancements
+# Future Enhancements
 
 - User Login Authentication
 - Monthly Expense Analysis
@@ -66,12 +66,12 @@ The project is developed using Java as the backend and MySQL as the database man
 
 ---
 
-#=Author
+# Author
 
 Nandhini Devi S
 
 ---
 
-#=Status
+# Status
 
 Development Phase: Expense Tracker Project Started | Database Integration in Progress
