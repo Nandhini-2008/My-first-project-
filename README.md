@@ -1,77 +1,21 @@
-# ExpenseTracker
+# My First GitHub Project
 
-Smart Expense Tracking System using Java and MySQL
+## 👋 About Me
+Hello! My name is Nandhini Devi.
+I am a student learning GitHub and coding.
 
-# Project Overview
+## 📌 Project Description
+This is my first GitHub repository created for learning purposes.
 
-ExpenseTracker is a simple application designed to help users manage their daily expenses efficiently. The system helps users track spending, categorize expenses, and view monthly reports for better financial management.
+## 🛠️ Skills
+- Basic Computer Knowledge
+- Learning GitHub
+- Interested in Coding
 
-The project is developed using Java as the backend and MySQL as the database management system.
+## 📂 Files Included
+- hello.txt
 
----
+## 🚀 Purpose
+To understand how GitHub works and how to upload files.
 
-# Current Development Phase
-
-# Completed Features
-
-- Project Setup
-- GitHub Repository Setup
-- Expense Tracker Design Planning
-- User Interface Design
-
-# In Progress
-
-- Java GUI Development
-- MySQL Database Integration
-- Expense Data Storage
-
----
-
-# Technologies Used
-
-# Frontend
-
-- Java Swing (GUI)
-
-# Backend
-
-- Java
-
-# Database
-
-- MySQL
-
-# Version Control
-
-- Git
-- GitHub
-
----
-
-# Objectives
-
-- Help users track daily expenses
-- Maintain expense records
-- Generate monthly expense reports
-- Improve money management
-
----
-
-# Future Enhancements
-
-- User Login Authentication
-- Monthly Expense Analysis
-- Dashboard Module
-- Report Generation
-
----
-
-# Author
-
-Nandhini Devi S
-
----
-
-# Status
-
-Development Phase: Expense Tracker Project Started | Database Integration in Progress
+Thank you!
