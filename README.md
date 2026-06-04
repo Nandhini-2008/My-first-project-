@@ -1,7 +1,7 @@
 # My First GitHub Project
 
 ## 👋 About Me
-Hello! My name is Shivasri.
+Hello! My name is Nandhini Devi.
 I am a student learning GitHub and coding.
 
 ## 📌 Project Description
